@@ -1,7 +1,7 @@
 {
   "name": "ionic-scripts",
   "description": "Ionic scripts pack",
-  "version": "0.0.1",
+  "version": "1.2.4",
   "url": "git://github.com/DAB0mB/meteor-npm-ionic.git",
   "keywords": [
     "angular",
