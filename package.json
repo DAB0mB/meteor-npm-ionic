@@ -1,0 +1,19 @@
+{
+  "name": "ionic-scripts",
+  "description": "Ionic scripts pack",
+  "version": "0.0.1",
+  "url": "git://github.com/DAB0mB/meteor-npm-ionic.git",
+  "keywords": [
+    "angular",
+    "ionic"
+  ],
+  "dependencies": {
+    "ionic-sdk": "1.2.4"
+  },
+  "peerDependencies": {
+    "angular": "^1.4.3",
+    "angular-animate": "^1.4.3",
+    "angular-sanitize": "^1.4.3",
+    "angular-ui-router": "^0.2.13"
+  }
+}
