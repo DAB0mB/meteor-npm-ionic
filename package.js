@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Npm.depends({
-  'ionic-sdk': '1.2.4'
+  'ionic-sdk-unofficial': '1.3.1'
 });
 
 Package.onUse(function(api) {
