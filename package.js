@@ -1,7 +1,7 @@
 Package.describe({
   name: 'dab0mb:ionic-assets',
   summary: 'Ionic assets pack',
-  version: '1.3.3',
+  version: '1.3.4',
   git: 'https://github.com/DAB0mB/meteor-npm-ionic.git'
 });
 
