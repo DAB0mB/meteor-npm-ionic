@@ -11,13 +11,13 @@ Npm.depends({
 
 Package.onUse(function(api) {
   api.addFiles([
-    '.npm/package/node_modules/ionic-sdk/release/css/ionic.css'
+    '.npm/package/node_modules/ionic-sdk-unofficial/release/css/ionic.css'
   ], 'client');
 
   api.addAssets([
-    '.npm/package/node_modules/ionic-sdk/release/fonts/ionicons.eot',
-    '.npm/package/node_modules/ionic-sdk/release/fonts/ionicons.svg',
-    '.npm/package/node_modules/ionic-sdk/release/fonts/ionicons.ttf',
-    '.npm/package/node_modules/ionic-sdk/release/fonts/ionicons.woff'
+    '.npm/package/node_modules/ionic-sdk-unofficial/release/fonts/ionicons.eot',
+    '.npm/package/node_modules/ionic-sdk-unofficial/release/fonts/ionicons.svg',
+    '.npm/package/node_modules/ionic-sdk-unofficial/release/fonts/ionicons.ttf',
+    '.npm/package/node_modules/ionic-sdk-unofficial/release/fonts/ionicons.woff'
   ], 'client');
 });
